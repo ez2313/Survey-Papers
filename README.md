@@ -1,2 +1,5 @@
 # Survey-Papers
 Please find below "mock" journal articles surveying different topics in Theoretical Computer Science. The papers were final projects for Professor Andoni at Columbia University in the Advanced Algorithms and Algorithms for Massive Data courses. 
+
+1. **Data dependent LSH for ANN.**  The paper evaluates and compares different approaches to solving the Approximate Near Neighbor problem using Locality Senstive Hashing (LSH). The paper highlights the development of data-dependent LSH as a solution that makes use of the inherent structure of any arbitrary dataset. The presentation provides a brief overview of the goals and methods of the project.
+2. **Approximate MaxFlow in undirected graphs** The paper surveys the work of Richard Peng. "Approximate undirected maximum flows in O(mpolylog(n)) time." (In Robert Krauthgamer, editor, Proceedings of the Twenty-Seventh Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2016, Arlington, VA, USA, January 10-12, 2016, pages 1862–1867. SIAM, 2016).
